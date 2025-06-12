@@ -1,5 +1,8 @@
 {
   "projects": {
-    "default": "vetai-6189f"
-  }
+    "default": "vetai-6189f",
+    "y": "vetai2"
+  },
+  "targets": {},
+  "etags": {}
 }
